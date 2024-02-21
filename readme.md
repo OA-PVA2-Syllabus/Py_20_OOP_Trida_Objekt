@@ -1,5 +1,5 @@
 # PVA4 - Programování a vývoj aplikací
-## Lekce 15: OOP - Třídy
+## Cvičení 20: OOP - Třídy
 
 ## Obsah
 
