@@ -1,4 +1,4 @@
-# PVA4 - Programování a vývoj aplikací
+# PVA2 - Programování a vývoj aplikací
 ## Cvičení 20: OOP - Třída a Objekt
 
 ## Obsah
