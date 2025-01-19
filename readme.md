@@ -5,7 +5,7 @@
 
 ### 1 Student
 Chcete vytvořit informační systém pro evidenci studentů.
-Vytvořte třídu Student, definujte property `jméno`, `příjmení`, `třída`, `skupina`, `status` (boolean). True pro stav studenta, false pro uchazeče.
+Vytvořte třídu `Student`, definujte property `jméno`, `příjmení`, `třída`, `skupina`, `status` (boolean). True pro stav studenta, false pro uchazeče.
 
 Definujte dvě instance objektu třídy student. Pro první instanci použijte své údaje.
 
@@ -19,18 +19,18 @@ Vytvoř program pro evidenci aut malé autopůjčovny. Půjčovna má níže aut
 | 4K8 7107 | Mercedes GLE 450 AMG Line 4MATIC |   31223 |
 | POR911C |Porsche 911 Carrera 4S |   15 |
 
-Vytvoř třídu Auto, která bude obsahovat informace o autech, které půjčovna nabízí. Třída bude mít tyto atributy:
+Vytvoř třídu `Auto`, která bude obsahovat informace o autech, které půjčovna nabízí. Třída bude mít tyto atributy:
 
-registrační značka automobilu,
-značka a typ vozidla,
-počet najetých kilometrů,
-informaci o tom, jestli je vozidlo aktuálně volné (pravdivostní hodnota -- True pokud je volné a False pokud je vypůjčené).
+- registrační značka automobilu,
+- značka a typ vozidla,
+- počet najetých kilometrů,
+- informaci o tom, jestli je vozidlo aktuálně volné (pravdivostní hodnota -- True pokud je volné a False pokud je vypůjčené).
 
 Definuj objekty vozidel a vypiš všechny ve formě tabulky.
 
 
 ### 3 Kino
-Vytvoř program pro evidenci filmového promítání. Vytvořte třídu film, která bude mít atributy
+Vytvoř program pro evidenci filmového promítání. Vytvořte třídu `film`, která bude mít atributy
 - název filmu
 - režisér
 - rok vydání
